@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700;900');
+
+body {
+	background-color: brown;
+	color: #fff;
+	font-family: 'Menlo';
+	text-align: center;
+}
+
+h2 {
+	margin: 0px;
+}
+
+ul {
+	margin: 0px;
+}
